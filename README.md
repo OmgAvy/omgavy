@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avinash C. Prajapati</h1>
+<h1 align="center">Avinash Prajapati</h1>
 <h3 align="center">Aspiring Data science and statistics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgavy&label=Profile%20views&color=0e75b6&style=flat" alt="omgavy" /> </p>
