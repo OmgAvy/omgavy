@@ -13,7 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/OmgAvy)
 
-- 📝 I write articles on [Blogger](https://hashavy.blogspot.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
