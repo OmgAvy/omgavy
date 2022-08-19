@@ -16,13 +16,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/avinash-prajapati-05b05a1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinash-prajapati-05b05a1bb/" height="30" width="40" /></a>
 <a href="https://twitter.com/omgavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omgavy" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discordapp.com/users/611516000638337029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/611516000638337029" height="30" width="40" /></a>
 <a href="https://kaggle.com/omgavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omgavy" height="30" width="40" /></a>
-<a href="https://instagram.com/omgavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omgavy" height="30" width="40" /></a>
 <a href="https://medium.com/@omgavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omgavy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omgavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omgavy" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/omgavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="https://www.reddit.com/user/omgavy" height="30" width="40" /></a>
+<a href="https://instagram.com/omgavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omgavy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omgavy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omgavy" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/611516000638337029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/611516000638337029" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
