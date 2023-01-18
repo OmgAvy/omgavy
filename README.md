@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/omgavy" target="blank"><img src="https://img.shields.io/twitter/follow/omgavy?logo=twitter&style=for-the-badge" alt="omgavy" /></a> </p>
 
-- 🔭 I’m currently working with [Everest Fleet Pvt](https://everestfleet.com)
-
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/OmgAvy)
